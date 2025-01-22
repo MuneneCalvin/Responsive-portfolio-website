@@ -445,7 +445,7 @@ body {
   max-width: 30rem;
   justify-self: center;
   transition: var(--transition);
-}
+} 
 
 .service__card:hover {
   background-color: var(--color-primary);
